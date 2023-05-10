@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vinyl
+comment1.params=productCode\ stockLevel\ productPrice\ artistName\ albumName\ genre\ albumYear
+comment1.target=Vinyl(java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getArtistName()
+comment3.params=
+comment3.target=java.lang.String\ getAlbumName()
+comment4.params=
+comment4.target=java.lang.String\ getGenre()
+comment5.params=
+comment5.target=int\ getAlbumYear()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ toStringStock()
+numComments=8

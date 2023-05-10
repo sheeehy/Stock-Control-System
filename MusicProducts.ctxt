@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MusicProducts
+comment1.params=productCode\ stockLevel\ productPrice
+comment1.target=MusicProducts(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getProductCode()
+comment3.params=productCode
+comment3.target=void\ setProductName(java.lang.String)
+comment4.params=
+comment4.target=int\ getStockLevel()
+comment5.params=stockLevel
+comment5.target=void\ setStockLevel(int)
+comment6.params=
+comment6.target=double\ getPrice()
+comment7.params=productPrice
+comment7.target=void\ setPrice(int)
+numComments=8
